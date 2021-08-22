@@ -1,0 +1,12 @@
+.flexRowContent--header {
+  background-color: #212121;
+}
+.container--footerMenu {
+  position: fixed;
+}
+
+
+.flexRow--Main{
+  background-color: #424242;
+  margin-top: 56px;
+}
